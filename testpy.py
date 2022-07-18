@@ -10,3 +10,9 @@ print("testvscode2")
 
 
 print('hello world world world')
+
+
+class clase1():
+    color=""
+    fond=""
+    
